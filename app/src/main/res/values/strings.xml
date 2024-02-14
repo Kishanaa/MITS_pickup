@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MITS pickup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fast_food_emmy">Everything tasty and emmy</string>
+    <string name="custom_font_path">font/chewy</string>
+
+    <string name="fast_food_line">Life\'s too short for boring meals. Spice things up with our tantalizing fast food menu!</string>
+    <string name="fast_canteen_line">Why wait in line when you can order online? Let our canteen satisfy your cravings in minutes.</string>
+    <string name="fast_stationery_line">From elegant pens to vibrant notebooks, find inspiration in every detail at our stationery store.</string>
+</resources>
